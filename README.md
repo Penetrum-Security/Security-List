@@ -13,6 +13,7 @@ That's why we decided to come up with a list of tools to help with security impl
 	- Todoist https://todoist.com/?lang=en
 	- Zenkit https://zenkit.com/en/
 	- Wekan https://wekan.github.io
+	- Taskade https://www.taskade.com
 	
 Asset Management/Supply Chain Management: 
     	
