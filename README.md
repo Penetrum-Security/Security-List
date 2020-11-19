@@ -7,7 +7,7 @@ That's why we decided to come up with a list of tools to help with security impl
     	
 	- Trello https://trello.com/en-US
 	- MeisterTask https://www.meistertask.com/
-	- Wrike https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk6tr6tpvjAhUE4MgKHbv2BR0YABAAGgJxdQ&ohost=www.google.com&cid=CAESEeD20Zpi5P6sIDYSwTN0R6sH&sig=AOD64_3sIr0fiuILpk9tST2kZvVEHO3JnA&q=&ved=2ahUKEwiC_NL6tpvjAhVlu1kKHQsgBtoQ0Qx6BAgOEAE&adurl=
+	- Wrike https://www.wrike.com/
 	- Bitrix24 https://www.bitrix24.com/
 	- Teamwork Projects https://www.teamwork.com/project-management-software/
 	- Todoist https://todoist.com/?lang=en
