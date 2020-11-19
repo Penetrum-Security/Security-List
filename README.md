@@ -201,7 +201,7 @@ Monitoring and Logging:
 	
 Anti-USB: 
 
-	- USB Write Blocker https://legility.com/
+	- Anti USB https://github.com/hephaest0s/usbkill
 	
 - Infrastructure Evaluation/Simulation: 
 	
@@ -246,6 +246,7 @@ Anti-USB:
 	- NSAuditor - https://download.cnet.com/Nsauditor-Network-Security-Auditor/3000-2653_4-10321567.html
 	- MTA - Microsoft Threat Analyzer https://www.microsoft.com/en-us/download/details.aspx?id=44226
 	- security-onion https://securityonion.net/
+	- Inquest Labs https://labs.inquest.net/
 	
 
 - Web-Application Firewall: 
