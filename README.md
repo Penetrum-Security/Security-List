@@ -72,6 +72,7 @@ VPN:
 	- Social VPN http://ipop-project.org/
 	- SoftEther VPN https://www.softether.org/
 	- Tinc VPN http://www.tinc-vpn.org/
+	- Proton VPN https://protonvpn.com/
 
 End Point: 
 	
