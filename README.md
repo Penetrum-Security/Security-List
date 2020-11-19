@@ -1,10 +1,11 @@
+# **Penetrum LLC** <img src="https://penetrum.com/res/img/hand_logo_black.png" width=50 height=50 />
+ 
 Here at Penetrum we are strong believers in the opensource community. We think knowledge should be free and everyone should have the best tools to do the job at their fingertips. 
 
 That's why we decided to come up with a list of tools to help with security implementations, auditing, penetration testing, server management, and much more. Enjoy!
   
   
- Project Management: 
- 
+- Project Management: 
 	- Trello https://trello.com/en-US
 	- MeisterTask https://www.meistertask.com/
 	- Wrike https://www.wrike.com/
@@ -15,33 +16,28 @@ That's why we decided to come up with a list of tools to help with security impl
 	- Wekan https://wekan.github.io
 	- Taskade https://www.taskade.com
 	
-Asset Management/Supply Chain Management: 
-
+- Asset Management/Supply Chain Management: 
 	- Snipe-IT https://github.com/snipe/snipe-it
 	- Ralph https://github.com/allegro/ralph
 	- Open Boxes https://github.com/openboxes/openboxes
 	- Spiceworks https://www.spiceworks.com
 	
-Vulnerability Management:
-
+- Vulnerability Management:
 	- Faraday https://github.com/infobyte/faraday
 	- Archery Sec https://github.com/archerysec/archerysec
 	- Jackhammer https://github.com/olacabs/jackhammer
 	- Watchdog https://github.com/flipkart-incubator/watchdog
 	- OpenVAS https://sectools.org/tool/openvas/
 	
-Containter Related Scanning: 
-
+- Containter Related Scanning: 
 	- Trivy https://github.com/knqyf263/trivy
 	
-Docker UI: 
-
+- Docker UI: 
     - Cockpit Docker https://cockpit-project.org/guide/133/feature-docker.html
     - lazydocker https://github.com/jesseduffield/lazydocker/blob/master/README.md
 	
 
-Configuration Management: 
-
+- Configuration Management: 
 	- MGMT https://github.com/purpleidea/mgmt 
 	- Chef https://downloads.chef.io/
 	- Puppet https://puppet.com/download-open-source-puppet
@@ -55,16 +51,14 @@ Configuration Management:
 	- Saltstack https://www.saltstack.com
 	- Cockpit https://cockpit-project.org/
 	
-SIEM: 
-
+- SIEM: 
 	- OSSEC https://www.ossec.net/
 	- WAZUH  https://wazuh.com/
 	- ZEEK  https://www.zeek.org/
 	- EventLog360 https://www.manageengine.com/log-management/download.html
 	- Alient Vault - OSSIM https://www.alienvault.com/products/ossim
 	
-VPN: 
-
+- VPN: 
 	- OpenVPN https://openvpn.net/
 	- Check out https://www.vpnbook.com/
 	- Libreswan VPN https://libreswan.org/
@@ -75,12 +69,10 @@ VPN:
 	- Tinc VPN http://www.tinc-vpn.org/
 	- Proton VPN https://protonvpn.com/
 
-End Point: 
-
+- End Point: 
 	- Redline https://www.fireeye.com/services/freeware/redline.html
 	
-Linux & Windows System Hardener: 
-
+- Linux & Windows System Hardener: 
 	- Lynis https://github.com/CISOfy/lynis
 	- Microsoft Attack Surface Analyzer https://github.com/microsoft/AttackSurfaceAnalyzer
 	- Microsoft Baseline Security Analyzer https://www.microsoft.com/en-us/download/details.aspx?id=19892
@@ -90,22 +82,19 @@ Linux & Windows System Hardener:
 	- Zeus (AWS) https://github.com/DenizParlak/Zeus
 	- Docker-bench (Docker) https://github.com/docker/docker-bench-security
 
-Linux Login Protection: 
-
+- Linux Login Protection: 
 	- Fail2Ban  https://www.fail2ban.org/
 	- DenyHosts https://github.com/denyhosts/denyhosts
 	- SSHGuard https://www.sshguard.net/
 
-IP Blacklists and Domains: 
-
+- IP Blacklists and Domains: 
 	- Ultimate.Hosts.Blacklist https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 	- IPSet Firehol https://github.com/firehol/blocklist-ipsets
 	- Project Honeypot https://www.projecthoneypot.org/list_of_ips.php
 	- CryptoLocker https://data.netlab.360.com/feeds/dga/cryptolocker.txt
 	- BadIPs https://www.badips.com/get/list/any/2?age=7d
 	
-Proxies: 
-
+- Proxies: 
 	- Squid Proxy http://www.squid-cache.org/
 	- HAProxy http://www.haproxy.org/
 	- Swiper Proxy https://swiperproxy.github.io/
@@ -113,29 +102,24 @@ Proxies:
 	- NGinx https://www.nginx.com
 	- ThrottleProxy https://github.com/mistakster/throttle-proxy
 	
-Socks Server: 
-
+- Socks Server: 
 	- Shadowsocks https://shadowsocks.org/
 	- Dante https://github.com/notpeter/dante
 	- microsocks https://github.com/rofl0r/microsocks
 
-HTTP Tunnel:
-
+- HTTP Tunnel:
 	- Tinyproxy https://tinyproxy.github.io/
 	- mitmproxy https://mitmproxy.org/ < -- HTTPS 
 	- OpenProxy https://openproxy.space/
 	- Privoxy https://www.privoxy.org/
 
-FTP Proxy:
-
+- FTP Proxy:
 	- ftp.proxy http://www.ftpproxy.org/
 	
-DNS Proxy: 
-
+- DNS Proxy: 
 	- dnsmasq  http://www.thekelleys.org.uk/dnsmasq/
 
-Server/Network Monitoring: 
-
+- Server/Network Monitoring: 
 	- Netdata https://github.com/netdata/netdata
 	- Ganglia http://ganglia.info/
 	- Spiceworks https://www.capterra.com/p/79191/Spiceworks-IT-Desktop/
@@ -152,23 +136,20 @@ Server/Network Monitoring:
 	- MyLastSearch  https://www.nirsoft.net/utils/my_last_search.html
 	- SniffPass https://www.nirsoft.net/utils/password_sniffer.html
 	
-Network Intrusion Detection System (NIDS): 
-
+- Network Intrusion Detection System (NIDS): 
 	- Bro Logs https://www.bro.org/
 	- Snort https://github.com/snort3/snort3
 	- Pulled Pork https://github.com/shirkdog/pulledpork
 	- SSHGaurd https://github.com/atenart/sshguard
 	- Suricata https://suricata-ids.org
 	
-Host Intrustion Detection System (HIDS): 
-
+- Host Intrustion Detection System (HIDS): 
 	- Tripwire https://github.com/Tripwire
 	- Stealth https://github.com/fbb-git/stealth
 	- Ossec	https://www.ossec.net
 	- Samhain - https://la-samhna.de/samhain/s_download.html
 	
-Monitoring and Logging:
-
+- Monitoring and Logging:
 	- justniffer https://github.com/onotelli/justniffer
 	- httpry https://github.com/jbittel/httpry
 	- ngrep https://github.com/jpr5/ngrep
@@ -187,7 +168,6 @@ Monitoring and Logging:
 	- ZeroMQ - http://zeromq.org
 	
 - Anti-Virus: 
-	
 	- ClamAV https://www.clamav.net/
 	- Sophos https://www.sophos.com/en-us/products/free-tools.aspx
 	- F-Protection https://www.f-secure.com/us-en/home/products/anti-virus
@@ -199,12 +179,10 @@ Monitoring and Logging:
 	- Fortress https://github.com/essandess/macOS-Fortress
 	- PeekabooAV https://github.com/scVENUS/PeekabooAV
 	
-Anti-USB: 
-
+- Anti-USB: 
 	- USBKill https://github.com/hephaest0s/usbkill
 	
 - Infrastructure Evaluation/Simulation: 
-
 	- Infection Monkey https://www.guardicore.com/infectionmonkey/ 
 	- Threatcare https://www.threatcare.com/
 	- NeSSi2 http://www.nessi2.de/index.html
@@ -213,7 +191,6 @@ Anti-USB:
 	
 	
 - Malware Scans: 
-
 	- RKHunter http://rkhunter.sourceforge.net/
 	- GEMR http://www.gmer.net/
 	- Rootkit Revealer https://docs.microsoft.com/en-us/sysinternals/downloads/rootkit-revealer
@@ -225,7 +202,6 @@ Anti-USB:
 		
 	
 -  Anti-Spam: 
-
 	- Spam Assassins https://spamassassin.apache.org/
 	- Mail Cleaner https://www.mailcleaner.org/
 	- Scrollout http://www.scrolloutf1.com/
@@ -234,7 +210,7 @@ Anti-USB:
 	- RSpamD https://rspamd.com/
 	
 - Threat Intelligence: 
-
+	- Inquest Labs https://labs.inquest.net/
 	- abuse.ch https://abuse.ch/
 	- Emerging Threats  https://rules.emergingthreats.net/
 	- PhishTank https://www.phishtank.com/
@@ -246,11 +222,21 @@ Anti-USB:
 	- NSAuditor - https://download.cnet.com/Nsauditor-Network-Security-Auditor/3000-2653_4-10321567.html
 	- MTA - Microsoft Threat Analyzer https://www.microsoft.com/en-us/download/details.aspx?id=44226
 	- security-onion https://securityonion.net/
-	- Inquest Labs https://labs.inquest.net/
+	- ActorTrackr https://github.com/jalewis/actortrackr
+	- AiEngine https://gi thub.com/camp0/aiengine
+	- Automater https://github.com/1aN0rmus/TekDefense-Automater
+	- bro-intel-generator  https://github.com/exp0se/bro-intel-generator
+	- GoatRider https://github.com/BinaryDefense/goatrider
+	- Omnibus https://github.com/InQuest/omnibus
+	- poortego https://github.com/mgeide/poortego
+	- QRadio https://github.com/QTek/QRadio
+	- Redline https://www.fireeye.com/services/freeware/redline.html
+	- RITA https://github.com/activecm/rita
+	- HostHunter https://github.com/SpiderLabs/HostHunter
+	- Combine  https://github.com/mlsecproject/combine
+	- Cyphon https://www.cyphon.io/
 	
-
 - Web-Application Firewall: 
-
 	- ModSecurity https://github.com/SpiderLabs/ModSecurity
 	- NAXSI https://github.com/nbs-system/naxsi
 	- sql_firewall https://github.com/uptimejp/sql_firewall
@@ -261,13 +247,9 @@ Anti-USB:
 	- OpenWAF https://github.com/titansec/OpenWAF
 
 - Free Compliance Scaning:
-
 	- OpenSCAP https://github.com/OpenSCAP
 	
-INCIDENT RESPONSE: 
-
-Disk Image Creation Tools: 
-
+- Disk Image Creation Tools: 
 	- AccessData FTK Imager https://github.com/MrMugiwara/FTK-imager-OSX
 	- Bitscout https://github.com/vitaly-kamluk/bitscout
 	- GetData Forensic Imager http://www.forensicimager.com/
@@ -276,9 +258,8 @@ Disk Image Creation Tools:
 	- CloneZilla http://clonezilla.org/
 	
 	
-Network Analysis: 
-
-        - Xplico http://www.xplico.org/download
+- Network Analysis: 
+    - Xplico http://www.xplico.org/download
 	- Spiceworks Inventory https://www.spiceworks.com/download/inventory/
 	- GraphTool  https://graph-tool.skewed.de/
 	- KeyPlayer https://cran.r-project.org/web/packages/keyplayer/index.html
@@ -287,8 +268,7 @@ Network Analysis:
 	- Connvitals https://github.com/Comcast/connvitals
 	- IVRE https://ivre.rocks/
 	
-Evidence Collection: 
-
+- Evidence Collection: 
 	- bulk_extractor https://github.com/simsong/bulk_extractor
 	- cold disk quick response  https://github.com/orlikoski/CDQR
 	- ir-rescue  https://github.com/diogo-fernan/ir-rescue
@@ -303,37 +283,30 @@ Evidence Collection:
 	- DumpZilla https://www.dumpzilla.org/
 	- Broswer History https://www.nirsoft.net/utils/browsing_history_view.html
 	 
-Log Analysis Tools
-
+- Log Analysis Tools
 	- Lorg https://github.com/jensvoid/lorg 
 	- Logdissect https://github.com/dogoncouch/logdissect
 	- StreamAlert https://github.com/airbnb/streamalert
 	- SysmonSearch https://github.com/JPCERTCC/SysmonSearch
 
-File System Analysis/Imager: 
-
+- File System Analysis/Imager: 
 	- The Sleuth Kit (+Autopsy) http://www.sleuthkit.org/
 	- FTK Imager https://accessdata.com/product-download
 	 
-	
-Metadata Analysis: 
-
+- Metadata Analysis: 
 	- Exiftool https://www.sno.phy.queensu.ca/~phil/exiftool/
 	- JustMeta https://github.com/FortyNorthSecurity/Just-Metadata
-  	- Collection https://github.com/metadatacenter/metadata-analysis-tools
-  	- Archer Meta https://github.com/metadatacenter/metadata-analysis-tools 
-  	- TensorFlow Based https://github.com/tensorflow/metadata 
+  - Collection https://github.com/metadatacenter/metadata-analysis-tools
+  - TensorFlow Based https://github.com/tensorflow/metadata 
   
-Memory Analysis Tools: 
-
+- Memory Analysis Tools: 
 	- Evolve  https://github.com/JamesHabben/evolve
 	- LiME https://github.com/504ensicsLabs/LiME
 	- Volatility https://www.volatilityfoundation.org/
 	- VolDiff https://github.com/aim4r/VolDiff
 	- WindowsSCOPE  http://www.windowsscope.com/
 
-Memory Imaging Tools:
-
+- Memory Imaging Tools:
 	- Belkasoft Live RAM Capturer https://belkasoft.com/ram-capturer
 	- Linux Memory Grabber https://github.com/halpomeranz/lmg
 	- Magnet RAM Capture  https://www.magnetforensics.com/resources/magnet-ram-capture/
@@ -341,64 +314,42 @@ Memory Imaging Tools:
 	- Memoryze https://www.fireeye.com/services/freeware/memoryze.html
 	- RAMMap https://docs.microsoft.com/en-us/sysinternals/downloads/rammap
 
-MSSP: 
-
+- MSSP: 
 	- TheHive  https://github.com/TheHive-Project/TheHive
 
-OSX Evidence Collection: 
-
+- OSX Evidence Collection: 
 	- Knocknock https://github.com/synack/knockknock
 	- mscOS Artifact Parsing Tool (mac_apt)
 	- OSX Auditor https://github.com/jipegit/OSXAuditor
 	- OSX Collector https://github.com/Yelp/osxcollector
-	- Shims (SDB Parser) 	https://tzworks.net/prototype_page.php?proto_id=33
-	- SDB-Explorer 			https://github.com/evil-e/sdb-explorer
+	- Shims (SDB Parser) https://tzworks.net/prototype_page.php?proto_id=33
+	- SDB-Explorer https://github.com/evil-e/sdb-explorer
 
-Threat Intelligence: 
 
-	- ActorTrackr https://github.com/jalewis/actortrackr
-	- AiEngine https://gi thub.com/camp0/aiengine
-	- Automater https://github.com/1aN0rmus/TekDefense-Automater
-	- bro-intel-generator  https://github.com/exp0se/bro-intel-generator
-	- GoatRider https://github.com/BinaryDefense/goatrider
-	- Omnibus https://github.com/InQuest/omnibus
-	- poortego https://github.com/mgeide/poortego
-	- QRadio https://github.com/QTek/QRadio
-	- Redline https://www.fireeye.com/services/freeware/redline.html
-	- RITA https://github.com/activecm/rita
-	- HostHunter https://github.com/SpiderLabs/HostHunter
-	- Combine  https://github.com/mlsecproject/combine
-	- Cyphon https://www.cyphon.io/
-
-Incident Response Operating System:
-
+- Incident Response Operating System:
 	- DEFT http://www.deftlinux.net/download/
 	- Plainsight http://www.plainsight.info/download.html
 	- HBCD https://www.hirensbootcd.org/download/
 	
-Sandbox: 
-
+- Sandbox: 
 	- Falcon Sandbox https://github.com/PayloadSecurity/VxAPI
 	- Spender Sandbox https://github.com/spender-sandbox
 	- Sandboxie https://www.sandboxie.com/DownloadSandboxie
 	
 	
-Automated Triaging: 
-
+- Automated Triaging: 
 	- PE Studio https://www.winitor.com/
 	- FAME - https://github.com/certsocietegenerale/fame
 	- VIPER https://github.com/viper-framework/viper
 	- MalwOverview https://github.com/alexandreborges/malwoverview
 
-Online Sandbox: 
-
-        - Malcore https://penetrum.com/upload
+- Online Sandbox: 
+    - Malcore https://penetrum.com/upload
 	- Reverse.it https://www.reverse.it/
 	- Any.run https://any.run/ 
 	- Hybrid-Analysis https://www.hybrid-analysis.com/
 	
-IOC Scanner: 
-
+- IOC Scanner: 
 	- Fenrir  https://github.com/Neo23x0/Fenrir
 	- Forager https://github.com/opensourcesec/Forager
 	- Loki https://github.com/Neo23x0/Loki
@@ -406,8 +357,7 @@ IOC Scanner:
 	- Zimmermans Toolkit https://ericzimmerman.github.io/#!index.md
 	- Didier Stevens Toolkit https://blog.didierstevens.com/my-software/
 	
-DNS:
-
+- DNS:
 	- Bind https://www.isc.org/downloads/bind/
 	- djbdns http://cr.yp.to/djbdns.html
 	- Designate - https://wiki.openstack.org/wiki/Designate
