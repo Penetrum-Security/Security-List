@@ -347,7 +347,6 @@ Here at Penetrum LLC we are strong believers in the opensource community. We thi
 
 - Online Sandbox: 
     - Malcore https://penetrum.com/upload
-	- Reverse.it https://www.reverse.it/
 	- Any.run https://any.run/ 
 	- Hybrid-Analysis https://www.hybrid-analysis.com/
 	
