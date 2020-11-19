@@ -1,8 +1,10 @@
 # **Penetrum LLC** <img src="https://penetrum.com/res/img/hand_logo_black.png" width=50 height=50 />
- 
-Here at Penetrum we are strong believers in the opensource community. We think knowledge should be free and everyone should have the best tools to do the job at their fingertips. 
 
-That's why we decided to come up with a list of tools to help with security implementations, auditing, penetration testing, server management, and much more. Enjoy!
+###### Contact information: <br> Email: contact@penetrum.com <br> Phone Number: +1 (703) 268-4350
+
+----
+
+Here at Penetrum LLC we are strong believers in the opensource community. We think knowledge should be free and everyone should have the best tools to do the job at their fingertips. Everyone should have affordable security at all times, and should be able to protect their presences and assets online without having to pay for it. That's why we decided to come up with a list of tools to help with security implementations, auditing, penetration testing, server management, and much more. Enjoy!
   
   
 - Project Management: 
