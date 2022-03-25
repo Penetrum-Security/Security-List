@@ -161,7 +161,7 @@ Here at Penetrum LLC we are strong believers in the opensource community. We thi
 	- greylog https://www.graylog.org/ 
 	- Logstash https://www.elastic.co/products/logstash
 	- Flume  https://flume.apache.org/
-	- LOGalyze http://www.logalyze.com/
+	- LOGalyze https://logit.io/blog/post/open-source-logging-tools
 	- Syslog-ng https://www.syslog-ng.com/products/open-source-log-management/
 	- Greylog2
 	- Logstash
